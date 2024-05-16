@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "oHtQBUY91gXD/YOYxuI++7MBGH3jL2jhLfRezi2Rc2A4B0G3x9NizY2XxRbGvTdd9xYAFi3kWpiIR7bmtnVtVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jd0919889\\OneDrive - Ozarks Technical Community College\\C# Programs\\Assignments\\The Player Object\\The Player Object.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jd0919889\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\jd0919889\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\jd0919889\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\jd0919889\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\jd0919889\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\jd0919889\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\jd0919889\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

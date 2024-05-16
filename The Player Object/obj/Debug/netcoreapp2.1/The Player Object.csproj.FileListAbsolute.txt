@@ -1,0 +1,11 @@
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Assignments\The Player Object\bin\Debug\netcoreapp2.1\The Player Object.deps.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Assignments\The Player Object\bin\Debug\netcoreapp2.1\The Player Object.runtimeconfig.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Assignments\The Player Object\bin\Debug\netcoreapp2.1\The Player Object.runtimeconfig.dev.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Assignments\The Player Object\bin\Debug\netcoreapp2.1\The Player Object.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Assignments\The Player Object\bin\Debug\netcoreapp2.1\The Player Object.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Assignments\The Player Object\obj\Debug\netcoreapp2.1\The Player Object.csprojAssemblyReference.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Assignments\The Player Object\obj\Debug\netcoreapp2.1\The Player Object.csproj.CoreCompileInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Assignments\The Player Object\obj\Debug\netcoreapp2.1\The Player Object.AssemblyInfoInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Assignments\The Player Object\obj\Debug\netcoreapp2.1\The Player Object.AssemblyInfo.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Assignments\The Player Object\obj\Debug\netcoreapp2.1\The Player Object.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Assignments\The Player Object\obj\Debug\netcoreapp2.1\The Player Object.pdb
